@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "firstName": null,
+    "lastName": "Android 16",
+    "avatar": "http://raw.githubusercontent.com/huyqv/assets/master/users/android16.jpg"
+  },
+  {
+    "id": 2,
+    "firstName": null,
+    "lastName": "Android 19",
+    "avatar": "http://raw.githubusercontent.com/huyqv/assets/master/users/android19.jpg"
+  },
+  {
+    "id": 3,
+    "firstName": null,
+    "lastName": "Android 20",
+    "avatar": "http://raw.githubusercontent.com/huyqv/assets/master/users/android20.jpg"
+  },
+  {
+    "id": 4,
+    "firstName": null,
+    "lastName": "Android 21",
+    "avatar": "http://raw.githubusercontent.com/huyqv/assets/master/users/android21.jpg"
+  },
+  {
+    "id": 5,
+    "firstName": null,
+    "lastName": "Biden",
+    "avatar": "http://raw.githubusercontent.com/huyqv/assets/master/users/biden.jpg"
+  },
+  {
+    "id": 6,
+    "firstName": "Black",
+    "lastName": "Goku",
+    "avatar": "http://raw.githubusercontent.com/huyqv/assets/master/users/black%20goku.jpg"
+  },
+  {
+    "id": 7,
+    "firstName": null,
+    "lastName": "Broly",
+    "avatar": "http://raw.githubusercontent.com/huyqv/assets/master/users/broly.jpg"
+  },
+  {
+    "id": 8,
+    "firstName": null,
+    "lastName": "Bulma",
+    "avatar": "http://raw.githubusercontent.com/huyqv/assets/master/users/bulma.jpg"
+  },
+  {
+    "id": 9,
+    "firstName": null,
+    "lastName": "Buu",
+    "avatar": "http://raw.githubusercontent.com/huyqv/assets/master/users/buu.jpg"
+  },
+  {
+    "id": 10,
+    "firstName": "Byakuya",
+    "lastName": "Kuchiki",
+    "avatar": "http://raw.githubusercontent.com/huyqv/assets/master/users/buu.jpg"
+  }
+]
