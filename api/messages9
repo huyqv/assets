@@ -1,0 +1,26 @@
+[
+  {
+    "id": 6,
+    "firstName": null,
+    "lastName": "Biden",
+    "avatar": "http://raw.githubusercontent.com/huyqv/assets/master/users/biden.jpg",
+    "time": 0,
+    "text": "Quisque interdum"
+  },
+  {
+    "id": 29,
+    "firstName": null,
+    "lastName": "Yamcha",
+    "avatar": "http://raw.githubusercontent.com/huyqv/assets/master/users/yamcha.jpg",
+    "time": 0,
+    "text": "Morbi dictum"
+  },
+  {
+    "id": 27,
+    "firstName": null,
+    "lastName": "Trunks",
+    "avatar": "http://raw.githubusercontent.com/huyqv/assets/master/users/trunks.jpg",
+    "time": 0,
+    "image": "http://raw.githubusercontent.com/huyqv/assets/master/messages/20.jpg"
+  }
+]
