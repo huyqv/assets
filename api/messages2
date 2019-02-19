@@ -4,7 +4,7 @@
     "firstName": null,
     "lastName": "Android 16",
     "avatar": "http://raw.githubusercontent.com/huyqv/assets/master/users/android16.jpg",
-    "time": 0,
+    "time": 1550561103400,
     "text": "Hello ! I'm Jelly bean"
   },
   {
@@ -12,7 +12,7 @@
     "firstName": null,
     "lastName": "Buu",
     "avatar": "http://raw.githubusercontent.com/huyqv/assets/master/users/buu.jpg",
-    "time": 0,
+    "time": 1550561103300,
     "image": "http://raw.githubusercontent.com/huyqv/assets/master/messages/02.jpg"
   },
   {
@@ -20,7 +20,7 @@
     "firstName": null,
     "lastName": "Trunks",
     "avatar": "http://raw.githubusercontent.com/huyqv/assets/master/users/trunks.jpg",
-    "time": 0,
+    "time": 1550561103200,
     "text": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."
   },
   {
@@ -28,7 +28,7 @@
     "firstName": null,
     "lastName": "Broly",
     "avatar": "http://raw.githubusercontent.com/huyqv/assets/master/users/broly.jpg",
-    "time": 0,
+    "time": 1550561103100,
     "image": "http://raw.githubusercontent.com/huyqv/assets/master/messages/03.jpg"
   },
   {
@@ -36,7 +36,7 @@
     "firstName": null,
     "lastName": "Cell",
     "avatar": "http://raw.githubusercontent.com/huyqv/assets/master/users/cell.jpg",
-    "time": 0,
+    "time": 1550561103000,
     "url": "https://www.google.com/maps/place/The+Coffee+House/@10.7863876,106.63234,16.39z/data=!4m5!3m4!1s0x31752eae97b631ed:0x7dbe6e50dc5939d3!8m2!3d10.7866259!4d106.6365892"
   },
   {
@@ -44,7 +44,7 @@
     "firstName": "Fat",
     "lastName": "Buu",
     "avatar": "http://raw.githubusercontent.com/huyqv/assets/master/users/fat%20buu.jpg",
-    "time": 0,
+    "time": 1550561102900,
     "text": "Nam eu tincidunt neque"
   },
   {
@@ -52,7 +52,7 @@
     "firstName": null,
     "lastName": "Goku",
     "avatar": "http://raw.githubusercontent.com/huyqv/assets/master/users/goku.jpg",
-    "time": 0,
+    "time": 1550561102800,
     "image": "http://raw.githubusercontent.com/huyqv/assets/master/messages/04.jpg"
   },
   {
@@ -60,7 +60,7 @@
     "firstName": null,
     "lastName": "Vegeta",
     "avatar": "http://raw.githubusercontent.com/huyqv/assets/master/users/vegeta.jpg",
-    "time": 0,
+    "time": 1550561102700,
     "text": "Maecenas gravida massa quis sagittis dictum"
   },
   {
@@ -68,7 +68,7 @@
     "firstName": null,
     "lastName": "Buu",
     "avatar": "http://raw.githubusercontent.com/huyqv/assets/master/users/buu.jpg",
-    "time": 0,
+    "time": 1550561102600,
     "url": "https://www.youtube.com/watch?v=TwD2gra0aNE"
   },
   {
@@ -76,7 +76,7 @@
     "firstName": null,
     "lastName": "Freiza",
     "avatar": "http://raw.githubusercontent.com/huyqv/assets/master/users/freiza.jpg",
-    "time": 0,
+    "time": 1550561102500,
     "url": "http://google.com/"
   }
 ]

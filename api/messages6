@@ -4,7 +4,7 @@
     "firstName": null,
     "lastName": "Krillin",
     "avatar": "http://raw.githubusercontent.com/huyqv/assets/master/users/krilin.jpg",
-    "time": 0,
+    "time": 1550561099400,
     "text": "Egestas ultrices"
   },
   {
@@ -12,7 +12,7 @@
     "firstName": null,
     "lastName": "Launch",
     "avatar": "http://raw.githubusercontent.com/huyqv/assets/master/users/launch.jpg",
-    "time": 0,
+    "time": 1550561099300,
     "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
   },
   {
@@ -20,7 +20,7 @@
     "firstName": "East",
     "lastName": "Kaioshin",
     "avatar": "http://raw.githubusercontent.com/huyqv/assets/master/users/east%20kaioshin.jpg",
-    "time": 0,
+    "time": 1550561099200,
     "text": "Aenean vitae ullamcorper nisi"
   },
   {
@@ -28,7 +28,7 @@
     "firstName": null,
     "lastName": "Cell",
     "avatar": "http://raw.githubusercontent.com/huyqv/assets/master/users/cell.jpg",
-    "time": 0,
+    "time": 1550561099100,
     "sticker": "http://raw.githubusercontent.com/huyqv/assets/master/stickers/32.gif"
   },
   {
@@ -36,7 +36,7 @@
     "firstName": "East",
     "lastName": "Kaioshin",
     "avatar": "http://raw.githubusercontent.com/huyqv/assets/master/users/east%20kaioshin.jpg",
-    "time": 0,
+    "time": 1550561099000,
     "image": "http://raw.githubusercontent.com/huyqv/assets/master/messages/13.jpg"
   },
   {
@@ -44,7 +44,7 @@
     "firstName": null,
     "lastName": "Gohan",
     "avatar": "http://raw.githubusercontent.com/huyqv/assets/master/users/gohan.jpg",
-    "time": 0,
+    "time": 1550561098900,
     "sticker": "http://raw.githubusercontent.com/huyqv/assets/master/stickers/42.gif"
   },
   {
@@ -52,7 +52,7 @@
     "firstName": null,
     "lastName": "Goku",
     "avatar": "http://raw.githubusercontent.com/huyqv/assets/master/users/goku.jpg",
-    "time": 0,
+    "time": 1550561098800,
     "text": "Vivamus tempus justo eu mattis auctor."
   },
   {
@@ -60,7 +60,7 @@
     "firstName": null,
     "lastName": "Tapion",
     "avatar": "http://raw.githubusercontent.com/huyqv/assets/master/users/tapion.jpg",
-    "time": 0,
+    "time": 1550561098700,
     "text": "Nulla viverra aliquet nisl"
   },
   {
@@ -68,7 +68,7 @@
     "firstName": null,
     "lastName": "Zamasu",
     "avatar": "http://raw.githubusercontent.com/huyqv/assets/master/users/zamasu.jpg",
-    "time": 0,
+    "time": 1550561098600,
     "text": "Curabitur dignissim magna"
   },
   {
@@ -76,7 +76,7 @@
     "firstName": "Black",
     "lastName": "Goku",
     "avatar": "http://raw.githubusercontent.com/huyqv/assets/master/users/black%20goku.jpg",
-    "time": 0,
+    "time": 1550561098500,
     "image": "http://raw.githubusercontent.com/huyqv/assets/master/messages/14.jpg"
   }
 ]

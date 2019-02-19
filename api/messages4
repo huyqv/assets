@@ -4,7 +4,7 @@
     "firstName": null,
     "lastName": "Trunks",
     "avatar": "http://raw.githubusercontent.com/huyqv/assets/master/users/trunks.jpg",
-    "time": 0,
+    "time": 1550561101400,
     "url": "google.com"
   },
   {
@@ -12,7 +12,7 @@
     "firstName": "Fat",
     "lastName": "Buu",
     "avatar": "http://raw.githubusercontent.com/huyqv/assets/master/users/fat%20buu.jpg",
-    "time": 0,
+    "time": 1550561101300,
     "image": "http://raw.githubusercontent.com/huyqv/assets/master/messages/08.jpg"
   },
   {
@@ -20,7 +20,7 @@
     "firstName": null,
     "lastName": "Bulma",
     "avatar": "http://raw.githubusercontent.com/huyqv/assets/master/users/bulma.jpg",
-    "time": 0,
+    "time": 1550561101200,
     "text": "Eget justo"
   },
   {
@@ -28,7 +28,7 @@
     "firstName": null,
     "lastName": "Biden",
     "avatar": "http://raw.githubusercontent.com/huyqv/assets/master/users/biden.jpg",
-    "time": 0,
+    "time": 1550561101100,
     "image": "http://raw.githubusercontent.com/huyqv/assets/master/messages/09.jpg"
   },
   {
@@ -36,7 +36,7 @@
     "firstName": null,
     "lastName": "Buu",
     "avatar": "http://raw.githubusercontent.com/huyqv/assets/master/users/buu.jpg",
-    "time": 0,
+    "time": 1550561101000,
     "text": "Suspendisse scelerisque risus"
   },
   {
@@ -44,7 +44,7 @@
     "firstName": null,
     "lastName": "Gohan",
     "avatar": "http://raw.githubusercontent.com/huyqv/assets/master/users/gohan.jpg",
-    "time": 0,
+    "time": 1550561100900,
     "text": "Donec congue varius ipsum, ut lobortis massa tempus ut"
   },
   {
@@ -52,7 +52,7 @@
     "firstName": null,
     "lastName": "Goku",
     "avatar": "http://raw.githubusercontent.com/huyqv/assets/master/users/goku.jpg",
-    "time": 0,
+    "time": 1550561100800,
     "text": "Integer dapibus ligula at arcu ultricies dapibus eget non lectus."
   },
   {
@@ -60,6 +60,7 @@
     "firstName": null,
     "lastName": "Cell",
     "avatar": "http://raw.githubusercontent.com/huyqv/assets/master/users/cell.jpg",
+    "time": 1550561100700,
     "text": "Curabitur ut commodo diam"
   },
   {
@@ -67,7 +68,7 @@
     "firstName": null,
     "lastName": "Goku",
     "avatar": "http://raw.githubusercontent.com/huyqv/assets/master/users/goku.jpg",
-    "time": 0,
+    "time": 1550561100600,
     "text": "Hello World !"
   },
   {
@@ -75,7 +76,7 @@
     "firstName": null,
     "lastName": "Picolo",
     "avatar": "http://raw.githubusercontent.com/huyqv/assets/master/users/picolo.jpg",
-    "time": 0,
+    "time": 1550561100500,
     "text": "Maecenas dui nisl, cursus at vulputate eget, cursus quis risus. Nullam non mauris ac arcu semper blandit nec non risus"
   }
 ]

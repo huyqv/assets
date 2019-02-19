@@ -4,7 +4,7 @@
     "firstName": null,
     "lastName": "Android 19",
     "avatar": "http://raw.githubusercontent.com/huyqv/assets/master/users/android19.jpg",
-    "time": 0,
+    "time": 1550561104400,
     "text": "Hello ! I'm KitKat"
   },
   {
@@ -12,7 +12,7 @@
     "firstName": null,
     "lastName": "Freiza",
     "avatar": "http://raw.githubusercontent.com/huyqv/assets/master/users/freiza.jpg",
-    "time": 0,
+    "time": 1550561104300,
     "image": "http://raw.githubusercontent.com/huyqv/assets/master/messages/01.jpg"
   },
   {
@@ -20,7 +20,7 @@
     "firstName": null,
     "lastName": "Goku",
     "avatar": "http://raw.githubusercontent.com/huyqv/assets/master/users/goku.jpg",
-    "time": 0,
+    "time": 1550561104200,
     "text": "Pellentesque lobortis odio sed euismod lacinia."
   },
   {
@@ -28,7 +28,7 @@
     "firstName": "Black",
     "lastName": "Goku",
     "avatar": "http://raw.githubusercontent.com/huyqv/assets/master/users/black%20goku.jpg",
-    "time": 0,
+    "time": 1550561104100,
     "text": "Nullam eleifend sagittis aliquet"
   },
   {
@@ -36,7 +36,7 @@
     "firstName": null,
     "lastName": "Vegeta",
     "avatar": "http://raw.githubusercontent.com/huyqv/assets/master/users/vegeta.jpg",
-    "time": 0,
+    "time": 1550561104000,
     "sticker": "http://raw.githubusercontent.com/huyqv/assets/master/stickers/28.gif"
   },
   {
@@ -44,7 +44,7 @@
     "firstName": null,
     "lastName": "Android 20",
     "avatar": "http://raw.githubusercontent.com/huyqv/assets/master/users/android20.jpg",
-    "time": 0,
+    "time": 1550561103900,
     "url": "https://www.facebook.com/FUB.KeliNetwork/videos/533490233754686/"
   },
   {
@@ -52,7 +52,7 @@
     "firstName": null,
     "lastName": "Android 21",
     "avatar": "http://raw.githubusercontent.com/huyqv/assets/master/users/android21.jpg",
-    "time": 0,
+    "time": 1550561103800,
     "text": "Hello ! I'm Lollipop"
   },
   {
@@ -60,7 +60,7 @@
     "firstName": null,
     "lastName": "Picolo",
     "avatar": "http://raw.githubusercontent.com/huyqv/assets/master/users/picolo.jpg",
-    "time": 0,
+    "time": 1550561103700,
     "sticker": "http://raw.githubusercontent.com/huyqv/assets/master/stickers/01.gif"
   },
   {
@@ -68,7 +68,7 @@
     "firstName": null,
     "lastName": "Android 19",
     "avatar": "http://raw.githubusercontent.com/huyqv/assets/master/users/android19.jpg",
-    "time": 0,
+    "time": 1550561103600,
     "text": "Etiam at lorem eget lorem pharetra malesuada"
   },
   {
@@ -76,7 +76,7 @@
     "firstName": null,
     "lastName": "Goku",
     "avatar": "http://raw.githubusercontent.com/huyqv/assets/master/users/goku.jpg",
-    "time": 0,
+    "time": 1550561103500,
     "text": "Sed"
   }
 ]

@@ -4,7 +4,7 @@
     "firstName": null,
     "lastName": "Cell",
     "avatar": "http://raw.githubusercontent.com/huyqv/assets/master/users/cell.jpg",
-    "time": 0,
+    "time": 1550561100400,
     "image": "http://raw.githubusercontent.com/huyqv/assets/master/messages/10.jpg"
   },
   {
@@ -12,7 +12,7 @@
     "firstName": null,
     "lastName": "Goku",
     "avatar": "http://raw.githubusercontent.com/huyqv/assets/master/users/goku.jpg",
-    "time": 0,
+    "time": 1550561100300,
     "url": "https://firebase.google.com/"
   },
   {
@@ -20,7 +20,7 @@
     "firstName": null,
     "lastName": "Kame Shenin",
     "avatar": "https://raw.githubusercontent.com/huyqv/assets/master/users/kame%20shennin.jpg",
-    "time": 0,
+    "time": 1550561100200,
     "text": "Vestibulum accumsan mattis massa"
   },
   {
@@ -28,7 +28,7 @@
     "firstName": null,
     "lastName": "Gohan",
     "avatar": "http://raw.githubusercontent.com/huyqv/assets/master/users/gohan.jpg",
-    "time": 0,
+    "time": 1550561100100,
     "image": "http://raw.githubusercontent.com/huyqv/assets/master/messages/11.jpg"
   },
   {
@@ -36,7 +36,7 @@
     "firstName": null,
     "lastName": "Yamcha",
     "avatar": "http://raw.githubusercontent.com/huyqv/assets/master/users/yamcha.jpg",
-    "time": 0,
+    "time": 1550561100000,
     "text": "Augue nec consequat semper"
   },
   {
@@ -44,7 +44,7 @@
     "firstName": null,
     "lastName": "Picolo",
     "avatar": "http://raw.githubusercontent.com/huyqv/assets/master/users/picolo.jpg",
-    "time": 0,
+    "time": 1550561099900,
     "image": "http://raw.githubusercontent.com/huyqv/assets/master/messages/12.jpg"
   },
   {
@@ -52,7 +52,7 @@
     "firstName": null,
     "lastName": "Kame Shenin",
     "avatar": "https://raw.githubusercontent.com/huyqv/assets/master/users/kame%20shennin.jpg",
-    "time": 0,
+    "time": 1550561099800,
     "text": "Cursus"
   },
   {
@@ -60,7 +60,7 @@
     "firstName": null,
     "lastName": "Krillin",
     "avatar": "http://raw.githubusercontent.com/huyqv/assets/master/users/krilin.jpg",
-    "time": 0,
+    "time": 1550561099700,
     "text": "Maecenas aliquam metus in magna pellentesque"
   },
   {
@@ -68,7 +68,7 @@
     "firstName": null,
     "lastName": "Goku",
     "avatar": "http://raw.githubusercontent.com/huyqv/assets/master/users/goku.jpg",
-    "time": 0,
+    "time": 1550561099600,
     "text": "Curabitur sed nibh lacinia, auctor diam vulputate, vulputate est."
   },
   {
@@ -76,7 +76,7 @@
     "firstName": null,
     "lastName": "Tien Shinhan",
     "avatar": "http://raw.githubusercontent.com/huyqv/assets/master/users/tien%20shinhan.jpg",
-    "time": 0,
+    "time": 1550561099500,
     "sticker": "http://raw.githubusercontent.com/huyqv/assets/master/stickers/03.gif"
   }
 ]

@@ -4,7 +4,7 @@
     "firstName": null,
     "lastName": "Pic",
     "avatar": "http://raw.githubusercontent.com/huyqv/assets/master/users/pic.jpg",
-    "time": 0,
+    "time": 1550561102400,
     "text": "Aliquam molestie sapien vitae ligula blandit tincidunt"
   },
   {
@@ -12,7 +12,7 @@
     "firstName": null,
     "lastName": "Android 21",
     "avatar": "http://raw.githubusercontent.com/huyqv/assets/master/users/android21.jpg",
-    "time": 0,
+    "time": 1550561102300,
     "image": "http://raw.githubusercontent.com/huyqv/assets/master/messages/05.jpg"
   },
   {
@@ -20,7 +20,7 @@
     "firstName": null,
     "lastName": "Goku",
     "avatar": "http://raw.githubusercontent.com/huyqv/assets/master/users/goku.jpg",
-    "time": 0,
+    "time": 1550561102200,
     "text": "Nunc lacus felis, pharetra et laoreet ac, porta at odio"
   },
   {
@@ -28,7 +28,7 @@
     "firstName": null,
     "lastName": "Zamasu",
     "avatar": "http://raw.githubusercontent.com/huyqv/assets/master/users/zamasu.jpg",
-    "time": 0,
+    "time": 1550561102100,
     "text": "convallis, ut dictum turpis aliquam"
   },
   {
@@ -36,7 +36,7 @@
     "firstName": null,
     "lastName": "Android 16",
     "avatar": "http://raw.githubusercontent.com/huyqv/assets/master/users/android16.jpg",
-    "time": 0,
+    "time": 1550561102000,
     "image": "http://raw.githubusercontent.com/huyqv/assets/master/messages/06.jpg"
   },
   {
@@ -44,7 +44,7 @@
     "firstName": null,
     "lastName": "Goku",
     "avatar": "http://raw.githubusercontent.com/huyqv/assets/master/users/goku.jpg",
-    "time": 0,
+    "time": 1550561101900,
     "text": "Maecenas in nunc id erat pretium tristique eu nec quam"
   },
   {
@@ -52,7 +52,7 @@
     "firstName": null,
     "lastName": "Trunks",
     "avatar": "http://raw.githubusercontent.com/huyqv/assets/master/users/trunks.jpg",
-    "time": 0,
+    "time": 1550561101800,
     "sticker": "http://raw.githubusercontent.com/huyqv/assets/master/stickers/02.gif"
   },
   {
@@ -60,7 +60,7 @@
     "firstName": null,
     "lastName": "Vegeta",
     "avatar": "http://raw.githubusercontent.com/huyqv/assets/master/users/vegeta.jpg",
-    "time": 0,
+    "time": 1550561101700,
     "image": "http://raw.githubusercontent.com/huyqv/assets/master/messages/07.jpg"
   },
   {
@@ -68,7 +68,7 @@
     "firstName": null,
     "lastName": "Freiza",
     "avatar": "http://raw.githubusercontent.com/huyqv/assets/master/users/freiza.jpg",
-    "time": 0,
+    "time": 1550561101600,
     "text": " Duis purus lacus, elementum et eros ac, bibendum tempor nulla"
   },
   {
@@ -76,7 +76,7 @@
     "firstName": null,
     "lastName": "Goku",
     "avatar": "http://raw.githubusercontent.com/huyqv/assets/master/users/goku.jpg",
-    "time": 0,
+    "time": 1550561101500,
     "text": "Hi ! I'am goku"
   }
 ]

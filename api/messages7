@@ -4,7 +4,7 @@
     "firstName": null,
     "lastName": "Broly",
     "avatar": "http://raw.githubusercontent.com/huyqv/assets/master/users/broly.jpg",
-    "time": 0,
+    "time": 1550561098400,
     "text": "Donec id orci bibendum, ultricies diam sit amet, congue purus"
   },
   {
@@ -12,7 +12,7 @@
     "firstName": null,
     "lastName": "Bulma",
     "avatar": "http://raw.githubusercontent.com/huyqv/assets/master/users/bulma.jpg",
-    "time": 0,
+    "time": 1550561098300,
     "text": "Donec ac lorem enim"
   },
   {
@@ -20,7 +20,7 @@
     "firstName": null,
     "lastName": "Pic",
     "avatar": "http://raw.githubusercontent.com/huyqv/assets/master/users/pic.jpg",
-    "time": 0,
+    "time": 1550561098200,
     "image": "http://raw.githubusercontent.com/huyqv/assets/master/messages/15.jpg"
   },
   {
@@ -28,7 +28,7 @@
     "firstName": null,
     "lastName": "Picolo",
     "avatar": "http://raw.githubusercontent.com/huyqv/assets/master/users/picolo.jpg",
-    "time": 0,
+    "time": 1550561098100,
     "url": "https://www.youtube.com/watch?v=uiDxUcaBLE8"
   },
   {
@@ -36,7 +36,7 @@
     "firstName": null,
     "lastName": "Poc",
     "avatar": "http://raw.githubusercontent.com/huyqv/assets/master/users/poc.jpg",
-    "time": 0,
+    "time": 1550561098000,
     "text": "In id nunc ligula"
   },
   {
@@ -44,7 +44,7 @@
     "firstName": null,
     "lastName": "Goku",
     "avatar": "http://raw.githubusercontent.com/huyqv/assets/master/users/goku.jpg",
-    "time": 0,
+    "time": 1550561097900,
     "image": "http://raw.githubusercontent.com/huyqv/assets/master/messages/16.jpg"
   },
   {
@@ -52,7 +52,7 @@
     "firstName": null,
     "lastName": "Satan",
     "avatar": "http://raw.githubusercontent.com/huyqv/assets/master/users/satan.jpg",
-    "time": 0,
+    "time": 1550561097800,
     "text": "Vestibulum lacinia vehicula felis. In vitae leo quis erat molestie aliquam"
   },
   {
@@ -60,7 +60,7 @@
     "firstName": null,
     "lastName": "Poc",
     "avatar": "http://raw.githubusercontent.com/huyqv/assets/master/users/poc.jpg",
-    "time": 0,
+    "time": 1550561097700,
     "image": "http://raw.githubusercontent.com/huyqv/assets/master/messages/17.jpg"
   },
   {
@@ -68,7 +68,7 @@
     "firstName": null,
     "lastName": "Launch",
     "avatar": "http://raw.githubusercontent.com/huyqv/assets/master/users/launch.jpg",
-    "time": 0,
+    "time": 1550561097600,
     "text": "Vestibulum"
   },
   {
@@ -76,7 +76,7 @@
     "firstName": null,
     "lastName": "Tao",
     "avatar": "http://raw.githubusercontent.com/huyqv/assets/master/users/tao.jpg",
-    "time": 0,
+    "time": 1550561097500,
     "text": "Sed non aliquam turpis"
   }
 ]
